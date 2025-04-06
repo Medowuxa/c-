@@ -5,7 +5,7 @@ using System.Threading;
 
 namespace MazeGame
 {
-    class Program
+    class MazeGame
     {
         static char[,] maze;
         static int mazeWidth, mazeHeight;
